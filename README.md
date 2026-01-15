@@ -1,1 +1,0 @@
-# QR-scanner-or-creator
